@@ -1,6 +1,6 @@
 # Telegram bot Google Drive API integration example
 
-This is a Telegram bot that uses **Google Drive API V3** Python Client to upload files to Google Drive.
+ This is a Telegram bot that uses **Google Drive API V3** Python Client to upload files to Google Drive.
 
 
 
