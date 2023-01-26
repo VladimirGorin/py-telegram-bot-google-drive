@@ -13,7 +13,7 @@ You have to enable [Google Drive API V3](https://console.developers.google.com/a
 
 ## Installation
 
-Clone the repository:
+ Clone the repository:
 
 ```
 git clone https://github.com/VladimirGorin/py-telegram-bot-google-drive
